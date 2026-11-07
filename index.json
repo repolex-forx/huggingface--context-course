@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "context-course",
+  "versions": [
+    {
+      "commit": "e4fefaec7bd4843139df705f5e169750a441b273",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:41:08.993277+00:00"
+    }
+  ]
+}
